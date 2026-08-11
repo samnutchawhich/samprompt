@@ -1,0 +1,22 @@
+# Obsidian — ไฟล์ที่เปลี่ยนทุกครั้งที่เปิดโปรแกรม ไม่ต้องเก็บ
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS (เผื่ออนาคต)
+.DS_Store
+
+# ไฟล์สื่อขนาดใหญ่ — vault นี้เก็บแต่ข้อความ
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.zip
+*.psd
+*.ai
