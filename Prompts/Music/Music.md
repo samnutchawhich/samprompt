@@ -1,4 +1,4 @@
----
+﻿---
 title: Music
 type: category-index
 tags:
@@ -20,6 +20,7 @@ tags:
 | ไฟล์ | มีอะไร |
 |---|---|
 | [[NPC — MV Design]] | ออกแบบตัวละคร NPC (5 ลุค) + Player (2 ลุค) + กฎตัดต่อ + shot list ตามท่อนเพลง |
+| [[NPC — Costume Sheet Prompts]] | พร็อมต์เจนภาพชีทนางเอก 5 ลุค + ลำดับการทำ + checklist ตรวจงาน |
 
 ## 🔑 สูตรฮุคติดหู (ถอดจาก GG EZ — M.Sasuke)
 
