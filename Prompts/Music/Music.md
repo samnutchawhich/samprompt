@@ -13,7 +13,13 @@ tags:
 
 | เพลง | ภาษา | แนว | BPM / Key | Status |
 |---|---|---|---|---|
-| [[NPC]] | EN | kawaii-toxic electro-pop | 124 / A major | draft |
+| [[NPC]] | EN | kawaii-toxic electro-pop | 128 / F# minor | draft |
+
+## งานภาพประกอบเพลง
+
+| ไฟล์ | มีอะไร |
+|---|---|
+| [[NPC — MV Design]] | ออกแบบตัวละคร NPC (5 ลุค) + Player (2 ลุค) + กฎตัดต่อ + shot list ตามท่อนเพลง |
 
 ## 🔑 สูตรฮุคติดหู (ถอดจาก GG EZ — M.Sasuke)
 
